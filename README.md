@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ayush1974
-- 👀 I’m interested in ...Web devlopment
-- 🌱 I’m currently learning ...angularJS
+- 👀 I’m interested in ...Data Science
+- 🌱 I’m currently learning ...Generative AI
 - 💞️ I’m looking to collaborate on ...a Web page to track habits of people
-- 📫 How to reach me ...find me: https://twitter.com/AYUSHMI62839499
+- 📫 How to reach me ...Mail to: Ayushm.ug21.cs@nitp.ac.in
 
 <!---
 Ayush1974/Ayush1974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
